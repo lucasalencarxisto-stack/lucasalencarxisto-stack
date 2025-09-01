@@ -34,7 +34,7 @@
 - **[PR #2595 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2595)**  
   Fix + async test coverage for timeouts & retries
 
-  - **[PR #2597 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2597)**  
+- **[PR #2597 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2597)**  
   Add `content_filter_results` support to Image model + async test coverage
 
 - **[Flask OpenAI Chat App](https://github.com/lucasalencarxisto-stack/flask-openai-chat-app)**  
