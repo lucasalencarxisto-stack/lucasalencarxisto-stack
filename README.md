@@ -30,6 +30,10 @@
 ---
 
 ## 🌟 Featured Projects
+
+- **[PR #13 – Pronton VPN Browser Extension](https://github.com/ProtonVPN/proton-vpn-browser-extension/pull/13)**  
+  Build(lint): migrate to ESLint flat config (drop XO) and enable TS linting
+  
 - **[PR #2616 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2616)**  
   Tests & DX: expand Image coverage (content_filter_results), dedupe retries/timeouts (sync+async); docs & typing polish
   
@@ -46,7 +50,7 @@
   Add `content_filter_results` support to Image model + async test coverage
 
 - **[Flask OpenAI Chat App](https://github.com/lucasalencarxisto-stack/flask-openai-chat-app)**  
-  Full stack backend with SSE + Docker + OpenAI/Ollama  
+  Full-stack backend with SSE + Docker + OpenAI/Ollama  
 
 - **[ChatGPT Custom Keywords Memory](https://github.com/lucasalencarxisto-stack/chatgpt-custom-keywords-memory)**  
   Persistent keyword-based memory for assistants  
