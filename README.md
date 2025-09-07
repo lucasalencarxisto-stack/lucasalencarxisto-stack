@@ -31,6 +31,9 @@
 
 ## 🌟 Featured Projects
 
+- **[PR #2615 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2615)**  
+  test: improve retries and timeouts coverage (sync + async)
+  
 - **[PR #2595 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2595)**  
   Fix + async test coverage for timeouts & retries
   
