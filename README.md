@@ -30,7 +30,9 @@
 ---
 
 ## 🌟 Featured Projects
-
+- **[PR #2616 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2616)**  
+  Tests & DX: expand Image coverage (content_filter_results), dedupe retries/timeouts (sync+async); docs & typing polish
+  
 - **[PR #2615 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2615)**  
   test: improve retries and timeouts coverage (sync + async)
   
