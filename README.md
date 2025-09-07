@@ -31,6 +31,9 @@
 
 ## 🌟 Featured Projects
 
+- **[PR #14 – Pronton VPN Browser Extension](https://github.com/ProtonVPN/proton-vpn-browser-extension/pull/14)**  
+  Build: Cross-platform repack helper script
+  
 - **[PR #13 – Pronton VPN Browser Extension](https://github.com/ProtonVPN/proton-vpn-browser-extension/pull/13)**  
   Build(lint): migrate to ESLint flat config (drop XO) and enable TS linting
   
