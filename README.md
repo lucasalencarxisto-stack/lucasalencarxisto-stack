@@ -31,6 +31,9 @@
 
 ## 🌟 Featured Projects
 
+- **[PR #12287 – Ollama](https://github.com/ollama/ollama/pull/12287)**  
+  docs(wsl): add WSL dev quickstart + helper script (serve-dev-wsl.sh)
+
 - **[PR #12284 – Ollama](https://github.com/ollama/ollama/pull/12284)**  
   docs(readme): add WSL installation note for Windows users
   
