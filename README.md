@@ -58,9 +58,12 @@
 - **[PR #2597 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2597)**  
   Add `content_filter_results` support to Image model + async test coverage
 
-- **[Flask OpenAI Chat App](https://github.com/lucasalencarxisto-stack/flask-openai-chat-app)**  
+- **[Flask OpenAI Chat App](https://github.com/lucasalencarxisto-stack/nutriwarrior)**  
   Full-stack backend with SSE + Docker + OpenAI/Ollama  
 
+- **[nutriwarrior App](https://github.com/lucasalencarxisto-stack/flask-openai-chat-app)**  
+  Preview release: Java nutrition app in testing. Expect changes; the testing note will be removed once stable.
+  
 - **[ChatGPT Custom Keywords Memory](https://github.com/lucasalencarxisto-stack/chatgpt-custom-keywords-memory)**  
   Persistent keyword-based memory for assistants  
 
