@@ -42,7 +42,10 @@
   
 - **[PR #13 – Pronton VPN Browser Extension](https://github.com/ProtonVPN/proton-vpn-browser-extension/pull/13)**  
   Build(lint): migrate to ESLint flat config (drop XO) and enable TS linting
-  
+
+- **[PR #2650 – OpenAI Python SDK]( https://github.com/openai/openai-python/pull/2650)**  
+  Streaming: introduce opt-in unified StreamEvent (+ adapters, example, tests)
+
 - **[PR #2645 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2645)**  
   docs(examples): add async streaming examples for Responses and Chat
   
