@@ -67,10 +67,11 @@
 - **[PR #2597 – OpenAI Python SDK](https://github.com/openai/openai-python/pull/2597)**  
   Add `content_filter_results` support to Image model + async test coverage
 
-- **[Flask OpenAI Chat App](https://github.com/lucasalencarxisto-stack/nutriwarrior)**  
-  Full-stack backend with SSE + Docker + OpenAI/Ollama  
+- **[DeepBruce AI](github.com/lucasalencarxisto-stack/DeepBruce-AI)**  
+  Prototype AI assistant with its own API and a lightweight RAG flow that pulls context straight from Wikipedia 
 
-- **[nutriwarrior App](https://github.com/lucasalencarxisto-stack/flask-openai-chat-app)**  
+- **[nutriwarrior App](https://github.com/lucasalencarxisto-stack/nutriwarrior
+)**  
   Preview release: Java nutrition app in testing. Expect changes; the testing note will be removed once stable.
   
 - **[ChatGPT Custom Keywords Memory](https://github.com/lucasalencarxisto-stack/chatgpt-custom-keywords-memory)**  
