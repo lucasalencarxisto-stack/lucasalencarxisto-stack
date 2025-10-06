@@ -36,6 +36,9 @@
 
 - **[PR #12284 – Ollama](https://github.com/ollama/ollama/pull/12284)**  
   docs(readme): add WSL installation note for Windows users
+
+- **[PR #15 – Pronton VPN Browser Extension](https://github.com/ProtonVPN/proton-vpn-browser-extension/pull/15)**  
+ build: fix TypeScript/webpack (proxy typings) and sync source/ with upstream to restore working build
   
 - **[PR #14 – Pronton VPN Browser Extension](https://github.com/ProtonVPN/proton-vpn-browser-extension/pull/14)**  
   Build: Cross-platform repack helper script
